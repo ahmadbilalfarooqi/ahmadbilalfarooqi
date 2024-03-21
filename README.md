@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Bilal Farooqi</h1>
-<h3 align="center">I am Full Stack Web Developer From Pakistan</h3>
+<h2 align="center">Full Stack Web Developer 👨‍💻👨‍💻👨‍💻</h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadbilalfarooqi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadbilalfarooqi" /> </p>
 
@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmadbilal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadbilal_2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmad bilal ai developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad bilal ai developer" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmadbilalfarooqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadbilalfarooqi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmad-bilal-%F0%9F%8C%8D-ai-developer-7a1606264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad bilal ai developer" height="30" width="40" /></a>
+<a href="https://medium.com/@ahmadbilal20152016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadbilalfarooqi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
