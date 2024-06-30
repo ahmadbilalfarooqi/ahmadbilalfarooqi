@@ -1,5 +1,14 @@
-<h2 align="center">Hi 👋, I'm Ahmad Bilal Farooqi</h1>
-<h3 align="center">Full Stack Web Developer 👨‍💻</h2>
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Em-Aar.Em-Aar&left_color=red&right_color=green&left_text=Visitors" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ahmad+Bilal+Farooqi" />
+  </a>
+</h1>
+
+<h2 align="center">
+  A passionate Full Stack Developer with expertise inTypeScript, Next.js, Python, FastAPI, Docker and Kubernetes.
+</h2>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
