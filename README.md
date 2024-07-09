@@ -7,7 +7,7 @@
 </h1>
 
 <h2 align="center">
-  A passionate Full Stack Developer with expertise inTypeScript, Next.js, Python, FastAPI, Docker and Kubernetes.
+  A passionate Full Stack Developer with expertise in TypeScript, Next.js, Python, FastAPI, Docker and Kubernetes.
 </h2>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
