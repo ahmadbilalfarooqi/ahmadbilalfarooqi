@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmadbilal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadbilal_2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmad-bilal-%F0%9F%8C%8D-ai-developer-7a1606264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad bilal ai developer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmadbilalfarooqi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad bilal ai developer" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmadbilal20152016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmadbilalfarooqi" height="30" width="40" /></a>
 </p>
 
